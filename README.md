@@ -1,6 +1,8 @@
 ![GIF](https://github.com/Allespro/Allespro/raw/master/MainMenu.gif)
 
-⚡ coming soon ⚡ <img src="https://gpvc.arturio.dev/allespro" align="center" />
+⚡ coming soon ⚡
+
+<img src="https://gpvc.arturio.dev/allespro" align="center" />
 <!--
 **Allespro/Allespro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
